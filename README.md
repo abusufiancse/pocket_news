@@ -1,4 +1,4 @@
-## play with API
+## playing with API
 
 # pocket_news
 
